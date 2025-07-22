@@ -32,8 +32,5 @@ TicTacToe-using-React/
 ├── package.json
 └── README.md
 
-yaml
-Copy
-Edit
 
 
