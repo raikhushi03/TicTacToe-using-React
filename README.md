@@ -3,15 +3,37 @@
 <h2>🚀 Features
 </h2>
 
--🎲Two-player mode (X and O)
+- 🎲 Two-player game (X and O)
+- 🧠 Winner detection and draw condition
+- 🔄 Game reset button
+- ⚛️ Built with functional components and React hooks
+- 💻 Responsive layout for all devices
 
--🔁Real-time updates with instant move rendering
+---
 
--🧠Winner detection logic with result display
+## 🛠️ Tech Stack
 
--♻️Restart/reset game functionality
+- **React.js**
+- **JavaScript (ES6)**
+- **HTML/CSS**
+- **Create React App**
 
--📱Responsive design for all screen sizes
+---
 
--⚛️Built entirely with functional components and React hooks
+## 📂 Folder Structure
+
+TicTacToe-using-React/
+├── public/
+├── src/
+│ ├── App.jsx
+│ ├── Board.jsx
+│ ├── Square.jsx
+│ └── index.css
+├── package.json
+└── README.md
+
+yaml
+Copy
+Edit
+
 
