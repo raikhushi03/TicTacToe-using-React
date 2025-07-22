@@ -3,15 +3,15 @@
 <h2>🚀 Features
 </h2>
 
-🎲**Two-player mode (X and O)
+-🎲Two-player mode (X and O)
 
-🔁**Real-time updates with instant move rendering
+-🔁Real-time updates with instant move rendering
 
-🧠 **Winner detection logic with result display
+-🧠Winner detection logic with result display
 
-♻️ **Restart/reset game functionality
+-♻️Restart/reset game functionality
 
-📱 **Responsive design for all screen sizes
+-📱Responsive design for all screen sizes
 
-⚛️ **Built entirely with functional components and React hooks
+-⚛️Built entirely with functional components and React hooks
 
